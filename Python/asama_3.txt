@@ -1,0 +1,88 @@
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.483657 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3183 Satır, 
+389 Kelime, 
+347 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.479959 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3183 Satır, 
+389 Kelime, 
+347 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.479070 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3183 Satır, 
+389 Kelime, 
+347 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.479959 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3183 Satır, 
+389 Kelime, 
+347 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.479070 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3159 Satır, 
+388 Kelime, 
+348 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.485998 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3115 Satır, 
+381 Kelime, 
+342 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.488870 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3115 Satır, 
+381 Kelime, 
+342 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.488069 (radians)

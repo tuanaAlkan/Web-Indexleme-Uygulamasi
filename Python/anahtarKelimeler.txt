@@ -1,0 +1,1 @@
+[('Bilgisayar', 20), ('ve', 20), ('Mühendisi', 14), ('İş', 8), ('bilgisayar', 7)]

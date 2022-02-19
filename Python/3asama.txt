@@ -1,0 +1,186 @@
+
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.483657 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1506 Satır, 
+197 Kelime, 
+172 Farklı Kelime
+BENZERLIK Skorlaması:  1.482805 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.483657 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.483657 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.483657 (radians)
+-----------------------------
+Dosya 3asamaKelimeler.txt :
+3168 Satır, 
+386 Kelime, 
+349 Farklı Kelime
+-----------------------------
+Dosya 3asamaKelimeler_2.txt :
+1523 Satır, 
+200 Kelime, 
+174 Farklı Kelime
+BENZERLIK Skorlaması:  1.483657 (radians)
